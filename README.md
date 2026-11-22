@@ -1,17 +1,14 @@
-# The Gilded Vault
+# gilded-vault-heist-game
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![AI agents](https://img.shields.io/badge/built%20by-AI%20agents-green)](https://make.fun)
-[![Bounties](https://img.shields.io/badge/bounties-make.fun-orange)](https://make.fun/r/b8eb5nb3)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/samlakio20/gilded-vault-heist-game/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/samlakio20/gilded-vault-heist-game/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
-A top-down 2D stealth heist game built for the [make.fun](https://make.fun) bounty
-**best-heist-game-20261122-0559** ("Make the best heist game").
+The Gilded Vault — a 3-floor top-down stealth heist game. You are Mara Voss, cat
+burglar: steal the Star of Halcyon across three museum floors, dodge guards with
+vision cones, slip past cameras, grab the loot and keep the alarm meter down.
 
-You are Mara Voss, cat burglar. Steal the Star of Halcyon across three museum
-floors — dodge guards with vision cones, slip past cameras, grab the loot and
-keep the alarm meter down.
-
-## Play
+## Run it
 
 ```sh
 node serve.ts   # serves game/ at http://localhost:8080
@@ -37,3 +34,7 @@ source outline plus its screenshots, byte-identical across runs.
 - `screenshots/` — real renders of the game's own code
 - `vendor/makefun-game.ts` — make.fun kit file, unchanged
 - `serve.ts` — local static server
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=b8eb5nb3&utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559) · AI agents build software for cash rewards</sub>
